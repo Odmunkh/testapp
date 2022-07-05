@@ -1,0 +1,132 @@
+{
+  "admin": [
+    {
+      "admin_name": "admin",
+      "admin_password": "1234"
+    }
+  ],
+  "subject": [
+    {
+      "subject_name": "шалгалт №1",
+      "id": 1
+    }
+  ],
+  "Exam": [
+    {
+      "exam_name": "шалгалт №1",
+      "exam_desc": "шалгалт №1",
+      "exam_level": "шалгалт №1",
+      "exam_passMarks": "1",
+      "exam_totalQuestion": "1",
+      "exam_marks": "1",
+      "exam_date": "5-7-2022 13:44:59",
+      "id": 1
+    }
+  ],
+  "Question": [
+    {
+      "question_name": "монгол улсын нийслэлийн нэр?",
+      "option_one": "Дархан",
+      "option_two": "Хархорин",
+      "option_three": "Хөвсгөл",
+      "option_four": "Улаанбаатар",
+      "question_answer": "Улаанбаатар",
+      "exam_id": "1",
+      "subject_name": "шалгалт №1",
+      "id": 1
+    },
+    {
+      "question_name": "cc?",
+      "option_one": "",
+      "option_two": "",
+      "option_three": "",
+      "option_four": "",
+      "question_answer": "",
+      "exam_id": "1",
+      "subject_name": "",
+      "id": 2
+    }
+  ],
+  "Result": [
+    {
+      "result_status": "Fail",
+      "result_score": 1,
+      "user_email": "od@gmail.com",
+      "exam_date": "5-7-2022 13:47:22",
+      "exam_name": "Maths",
+      "total_marks": "5",
+      "exam_id": "1",
+      "total_Question": "5",
+      "id": 1
+    },
+    {
+      "result_status": "Fail",
+      "result_score": 1,
+      "user_email": "od@gmail.com",
+      "exam_date": "5-7-2022 13:47:43",
+      "exam_name": "Maths",
+      "total_marks": "5",
+      "exam_id": "1",
+      "total_Question": "5",
+      "id": 2
+    },
+    {
+      "result_status": "Fail",
+      "result_score": 1,
+      "user_email": "od@gmail.com",
+      "exam_date": "5-7-2022 13:49:7",
+      "exam_name": "Maths",
+      "total_marks": "5",
+      "exam_id": "1",
+      "total_Question": "5",
+      "id": 3
+    },
+    {
+      "result_status": "Fail",
+      "result_score": 0,
+      "user_email": "od@gmail.com",
+      "exam_date": "5-7-2022 13:50:16",
+      "exam_name": "Maths",
+      "total_marks": "5",
+      "exam_id": "1",
+      "total_Question": "5",
+      "id": 4
+    },
+    {
+      "result_status": "Pass",
+      "result_score": 1,
+      "user_email": "od@gmail.com",
+      "exam_date": "5-7-2022 13:52:25",
+      "exam_name": "Maths",
+      "total_marks": "5",
+      "exam_id": "1",
+      "total_Question": "5",
+      "id": 5
+    },
+    {
+      "result_status": "Pass",
+      "result_score": 1,
+      "user_email": "od@gmail.com",
+      "exam_date": "5-7-2022 13:53:59",
+      "exam_name": "Maths",
+      "total_marks": "5",
+      "exam_id": "1",
+      "total_Question": "5",
+      "id": 6
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "user_name": "od",
+      "user_email": "od@gmail.com",
+      "user_password": "1234"
+    },
+    {
+      "id": 2,
+      "user_name": "gerel",
+      "user_email": "gerel@gmail.com",
+      "user_password": "1234"
+    }
+  ]
+}
